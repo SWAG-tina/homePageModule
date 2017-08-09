@@ -1,0 +1,68 @@
+.shijuegaibian {
+  height: 1132px;
+  width: 1868px;
+  overflow: hidden;
+}
+.center-text {
+  position: relative;
+  color: #373737;
+  text-align: center;
+  width: 700px;
+  margin: 440px auto 444px auto;
+}
+
+.center-text h2 {
+  font-family: NotoSansHans-Regular;
+  margin: 0 0 48px 0;
+  font-size: 42px;
+}
+
+.center-text p {
+  font-family: NotoSansHans-Light;
+  font-size: 25px;
+  line-height: 48px;
+}
+
+.imgbg {
+  position: absolute;
+}
+
+.imgbg-1 {
+  top: -560px;
+  left: -730px;;
+}
+
+.imgbg-2 {
+  top: -560px;
+  left: -300px;
+}
+
+.imgbg-3 {
+  top: -15px;
+  left: -1085px;;
+}
+
+.imgbg-4 {
+  top: -25px;
+  left: -690px;
+}
+
+.imgbg-5 {
+  top: -466px;
+  right: -810px;
+}
+
+.imgbg-6 {
+  top: -128px;
+  right: -984px;
+}
+
+.imgbg-7 {
+  top: 70px;
+  right: -415px;
+}
+
+.imgbg-8 {
+  top: 410px;
+  right: -600px;
+}
